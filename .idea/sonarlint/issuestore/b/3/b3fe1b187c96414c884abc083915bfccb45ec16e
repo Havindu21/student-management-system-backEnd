@@ -1,0 +1,6 @@
+
+k	java:S116"VRename this field "Folder_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”õËì
+7
+java:S1170"!Make this final field static too.(”õËì
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(”õËì
